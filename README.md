@@ -1,4 +1,4 @@
-<h1>Hi, I'm Led, an <a href="https://linkedin.com/in/Ledjonag">IT Professional</a>☺</h1>
+<h1>Hi, I'm Led, an <a href="https://linkedin.com/in/Ledjonagaraj">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -11,4 +11,4 @@
 
 [<img align="left" alt="Led | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://linkedin.com/in/Ledjonag
+[linkedin]: https://linkedin.com/in/Ledjonagaraj
